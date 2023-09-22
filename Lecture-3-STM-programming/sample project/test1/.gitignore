@@ -1,0 +1,7 @@
+build
+Debug
+*.d
+*.cyclo
+*.mk
+*.o
+*.su

@@ -1,0 +1,23 @@
+{
+    "cortex-debug.variableUseNaturalFormat": true,
+    "stm32-for-vscode.openOCDPath": false,
+    "stm32-for-vscode.makePath": false,
+    "files.associations": {
+        "vl53l1x.h": "c",
+        "logs.h": "c",
+        "string.h": "c",
+        "usart.h": "c",
+        "stm32f3xx_hal_uart.h": "c",
+        "stdarg.h": "c",
+        "main.h": "c",
+        "motor-test.h": "c",
+        "cstdarg": "c"
+    },
+    "grammarly.selectors": [
+        {
+            "language": "c",
+            "scheme": "file",
+            "pattern": "Core/Src/main.c"
+        }
+    ]
+}
